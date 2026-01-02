@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Iam Jana M
 
 <!--
 **JANTECH2004/JANTECH2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Jana M
 
 Backend Engineer | Distributed Systems | Cloud & Security  
 India
