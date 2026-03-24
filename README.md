@@ -44,7 +44,7 @@ Backend Engineer | Distributed Systems | Java + Spring Boot
 
 ### 🔗 Profiles
 
-* GitHub: https://github.com/JanaM
+* GitHub: [https://github.com/Jana](https://github.com/JANTECH2004)
 * LinkedIn: [https://www.linkedin.com/in/JanaM](https://www.linkedin.com/in/2004-jana-m/)
 * LeetCode: https://leetcode.com/u/Jantech
 
